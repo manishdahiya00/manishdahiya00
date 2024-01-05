@@ -15,6 +15,7 @@
 ####  Frontend: HTML, CSS, JavaScript, React Js, Tailwind Css
 ####    Backend: Node Js, Express Js 
 ####    Database: MySQL, MongoDB, PostgreSQL
+####    Mobile: Flutter
 
 
 #### 🔧 I thrive in creating responsive, user-friendly, and scalable applications that meet the needs of both clients and end-users.
@@ -32,9 +33,9 @@
 ####  Frontend: HTML, CSS, JavaScript, React Js, Tailwind Css
 ####    Backend: Node Js, Express Js 
 ####    Database: MySQL, MongoDB, PostgreSQL
-####
+####    Mobile: Flutter
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,ts,tailwindcss,react,redux,nextjs,nodejs,expressjs,mysql,mongodb,postgres,py,firebase,appwrite,github,git,figma&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,ts,tailwindcss,react,redux,nextjs,flutter,nodejs,expressjs,mysql,mongodb,postgres,py,firebase,appwrite,github,git,figma&theme=light)](https://skills.thijs.gg)
 #
 ## 🎉 Github Stats
 
