@@ -35,7 +35,7 @@
 ####    Database: MySQL, MongoDB, PostgreSQL
 ####    Mobile: Flutter,  Android, Kotlin 
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,ts,tailwindcss,react,redux,nextjs,nodejs,expressjs,mysql,mongodb,postgres,py,firebase,appwrite,github,git,figma&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,ts,tailwindcss,react,redux,nextjs,nodejs,expressjs,mysql,mongodb,postgres,py,firebase,ubuntu,github,git,figma&theme=light)](https://skills.thijs.gg)
 #
 ## 🎉 Github Stats
 
