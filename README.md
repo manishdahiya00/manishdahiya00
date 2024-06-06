@@ -1,5 +1,4 @@
 
-![Logo](https://profoundedutech.com/blog/wp-content/uploads/2022/05/step-to-become-a-full-stack-developer.png)
 
 
 # 👋 Hi there! I'm Manish Dahiya.
@@ -12,8 +11,8 @@
 
 *    🌐 My expertise spans across a variety of languages and frameworks, including but not limited to:
 
-####  Frontend: HTML, CSS, JavaScript, React Js, Tailwind Css, Jetpack Compose
-####    Backend: Node Js, Express Js 
+####  Frontend: HTML, CSS, JavaScript, React Js, Next Js, Tailwind Css, Jetpack Compose
+####    Backend: Node Js, Express Js, Ruby On Rails, Django 
 ####    Database: MySQL, MongoDB, PostgreSQL
 ####    Mobile: Flutter, Android, Kotlin 
 
@@ -30,11 +29,10 @@
 ## 🔨 Tech Stack
 
 
-####  Frontend: HTML, CSS, JavaScript, React Js, Tailwind Css, Jetpack Compose
-####    Backend: Node Js, Express Js 
+####  Frontend: HTML, CSS, JavaScript, React Js, Next Js, Tailwind Css, Jetpack Compose
+####    Backend: Node Js, Express Js, Ruby On Rails, Django 
 ####    Database: MySQL, MongoDB, PostgreSQL
-####    Mobile: Flutter,  Android, Kotlin 
-
+####    Mobile: Flutter, Android, Kotlin 
 #
 #
 ## 🎉 Github Stats
