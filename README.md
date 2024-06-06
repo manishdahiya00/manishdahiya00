@@ -37,7 +37,7 @@
 #
 ## 🎉 Github Stats
 
-![Manish Dahiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=YashSawariya&border_color=000&show_icons=true&theme=light)
+![Manish Dahiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=manishdahiya00&border_color=000&show_icons=true&theme=light)
 
 
 ##
