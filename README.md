@@ -11,7 +11,7 @@
 
 *    🌐 My expertise spans across a variety of languages and frameworks, including but not limited to:
 
-####  Frontend: HTML, CSS, JavaScript, React Js, Next Js, Tailwind Css, Jetpack Compose
+####    Frontend: HTML, CSS, JavaScript, React Js, Next Js, Tailwind Css, Jetpack Compose
 ####    Backend: Node Js, Express Js, Ruby On Rails, Django 
 ####    Database: MySQL, MongoDB, PostgreSQL
 ####    Mobile: Flutter, Android, Kotlin 
@@ -29,7 +29,7 @@
 ## 🔨 Tech Stack
 
 
-####  Frontend: HTML, CSS, JavaScript, React Js, Next Js, Tailwind Css, Jetpack Compose
+####    Frontend: HTML, CSS, JavaScript, React Js, Next Js, Tailwind Css, Jetpack Compose
 ####    Backend: Node Js, Express Js, Ruby On Rails, Django 
 ####    Database: MySQL, MongoDB, PostgreSQL
 ####    Mobile: Flutter, Android, Kotlin 
