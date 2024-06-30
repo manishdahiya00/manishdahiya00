@@ -34,7 +34,7 @@
 ####    Database: MySQL, MongoDB, PostgreSQL
 ####    Mobile: Flutter 
 #
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,ruby,python,dart,reactjs,nextjs,rubyonrails,mysql,postgresql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,ruby,py,dart,react,nextjs,rails,mysql,postgres,mongodb,androidstudio,flutter,appwrite,bootstrap,express,firebase,git,github,materialui,nodejs,npm,postman,ruby,sass,sqlite,supabase,tailwind,ubuntu,)](https://skillicons.dev)
 #
 ## 🎉 Github Stats
 
