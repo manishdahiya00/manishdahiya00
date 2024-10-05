@@ -36,15 +36,4 @@
 #
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ruby,py,dart,react,nextjs,rails,mysql,postgres,mongodb,androidstudio,flutter,appwrite,bootstrap,express,firebase,git,github,materialui,nodejs,npm,postman,sass,sqlite,supabase,tailwind,ubuntu)](https://skillicons.dev)
 #
-## 🎉 Github Stats
-
-![Manish Dahiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=manishdahiya00&border_color=000&show_icons=true&theme=light)
-
-
-##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=manishdahiya00&border_color=000&layout=compact&theme=ligh&card_width=465)](https://github.com/manishdahiya00/github-readme-stats)
-#
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=manishdahiya00&theme=light&border_radius=10&hide_total_contributions=false&starting_year=2024&border=black&date_format=j%20M%5B%20Y%5D&card_width=470)](https://git.io/streak-stats)
-###
-#
 # 🎉🎉 THANK YOU FOR VISITING MY PROFILE 🎉🎉
