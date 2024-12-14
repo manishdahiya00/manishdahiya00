@@ -12,9 +12,8 @@
 *    🌐 My expertise spans across a variety of languages and frameworks, including but not limited to:
 
 ####    Frontend: HTML, CSS, JavaScript, React Js, Next Js, Tailwind Css
-####    Backend: Node Js, Express Js, Ruby On Rails 
-####    Database: MySQL, MongoDB, PostgreSQL
-####    Mobile: Flutter 
+####    Backend: Express Js, Ruby On Rails 
+####    Database: MongoDB, PostgreSQL
 
 
 #### 🔧 I thrive in creating responsive, user-friendly, and scalable applications that meet the needs of both clients and end-users.
@@ -30,9 +29,8 @@
 
 
 ####    Frontend: HTML, CSS, JavaScript, React Js, Next Js, Tailwind Css
-####    Backend: Node Js, Express Js, Ruby On Rails 
-####    Database: MySQL, MongoDB, PostgreSQL
-####    Mobile: Flutter 
+####    Backend: Express Js, Ruby On Rails 
+####    Database: MongoDB, PostgreSQL
 #
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ruby,py,dart,react,nextjs,rails,mysql,postgres,mongodb,androidstudio,flutter,appwrite,bootstrap,express,firebase,git,github,materialui,nodejs,npm,postman,sass,sqlite,supabase,tailwind,ubuntu)](https://skillicons.dev)
 #
