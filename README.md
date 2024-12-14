@@ -32,6 +32,6 @@
 ####    Backend: Express Js, Ruby On Rails 
 ####    Database: MongoDB, PostgreSQL
 #
-# [![My Skills](https://skillicons.dev/icons?i=html,css,js,ruby,py,dart,react,nextjs,rails,mysql,postgres,mongodb,androidstudio,flutter,appwrite,bootstrap,express,firebase,git,github,materialui,nodejs,npm,postman,sass,sqlite,supabase,tailwind,ubuntu)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ruby,py,dart,react,nextjs,rails,mysql,postgres,mongodb,androidstudio,flutter,appwrite,bootstrap,express,firebase,git,github,materialui,nodejs,npm,postman,sass,sqlite,supabase,tailwind,ubuntu)](https://skillicons.dev)
 #
 # 🎉🎉 THANK YOU FOR VISITING MY PROFILE 🎉🎉
