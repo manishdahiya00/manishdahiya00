@@ -4,34 +4,21 @@
 # 👋 Hi there! I'm Manish Dahiya.
 ###
 
-## 🚀 About Me
-#### Hello there! I'm Manish Dahiya, a passionate and detail-oriented full-stack developer with a love for turning ideas into functional and efficient software solutions.
+## 🌐Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dahiya_manish_0944) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manish-dahiya-99a174280/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/DahiyaManish00) 
 
-*    💻 I specialize in full-stack development, bringing proficiency in both front-end and back-end technologies.
+# 💻Tech Stack
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=manishdahiya00&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=manishdahiya00&theme=gruvbox&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=manishdahiya00&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-*    🌐 My expertise spans across a variety of languages and frameworks, including but not limited to:
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=manishdahiya00&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-####    Frontend: HTML, CSS, JavaScript, React Js, Next Js, Tailwind Css
-####    Backend: Express Js, Ruby On Rails 
-####    Database: MongoDB, PostgreSQL
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-
-#### 🔧 I thrive in creating responsive, user-friendly, and scalable applications that meet the needs of both clients and end-users.
-
-## 🌟 What I Bring to the Table
-
-####   🛠 Strong problem-solving skills with a keen eye for optimization.
-####    🤝 Effective collaboration and communication skills, ensuring seamless teamwork with cross-functional teams.
-####    📈 Continuous learner, always staying updated with the latest industry trends and technologies.
-####    🌐 A commitment to writing clean, maintainable code that adheres to best practices and coding standards
-##
-## 🔨 Tech Stack
-
-
-####    Frontend: HTML, CSS, JavaScript, React Js, Next Js, Tailwind Css
-####    Backend: Express Js, Ruby On Rails 
-####    Database: MongoDB, PostgreSQL
-#
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ruby,py,dart,react,nextjs,rails,mysql,postgres,mongodb,androidstudio,flutter,appwrite,bootstrap,express,firebase,git,github,materialui,nodejs,npm,postman,sass,sqlite,supabase,tailwind,ubuntu)](https://skillicons.dev)
-#
-# 🎉🎉 THANK YOU FOR VISITING MY PROFILE 🎉🎉
+---
+[![](https://visitcount.itsvg.in/api?id=manishdahiya00&icon=6&color=4)](https://visitcount.itsvg.in)
